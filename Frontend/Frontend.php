@@ -138,7 +138,7 @@ class Frontend
             $app_id          = $this->pluginSlug . '-app';
             $script_id       = $this->pluginSlug . '-script';
             $app_filename    = 'app.js';
-            $script_filename = 'script.js';
+            $script_filename = 'script.min.js';
             $app_url         = path_join( DONUT_ADVENTURE_URL, 'assets/js/' . $app_filename );
             $script_url      = path_join( DONUT_ADVENTURE_URL, 'assets/js/' . $script_filename );
     
