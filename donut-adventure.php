@@ -11,6 +11,7 @@
  * Plugin URI:        https://wowvendor.com/contacts/
  * Description:       A simple web browser game
  * Version:           1.0.0
+ * Requires at least: 5.8
  * Requires PHP:      8.0
  * Author:            Kirill S.
  * Author URI:        https://indigit.info/
