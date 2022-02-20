@@ -127,7 +127,6 @@ class API
             return true;
         }
         
-        return true;
         return false;
     }
 
